@@ -1,6 +1,9 @@
 
 # cli development version
 
+* New `pluralize()` function to perform pluralization without generating
+  cli output (#)
+
 # cli 2.0.2
 
 * The status bar now does not simplify multiple spaces by a single space.
